@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm AMAR CHAIMAA, a passionate Big Data enthusiast and first-year student exploring the world of data and technology. I'm currently diving into projects involving HTML & CSS to enhance my skills and build a strong portfolio for future opportunities.<br><br>💡 My goal is to become a skilled Big Data Engineer while showcasing my creativity through technical and design projects.<br><br>🚀 Interests:<br><br>Big Data and Analytics<br><br>Technical problem-solving<br><br>Web development and data visualization<br><br>Continuous learning<br><br>📫 Let’s connect! Whether you’re looking to collaborate or share advice, feel free to reach out.<br><br>
+👋 Hi! I'm AMAR CHAIMAA, a passionate Big Data enthusiast and first-year student exploring the world of data and technology. <br><br>🚀 Interests:<br><br>Big Data and Analytics<br><br>Technical problem-solving<br><br>Web development and data visualization<br><br>Continuous learning<br><br>📫 Let’s connect! Whether you’re looking to collaborate or share advice, feel free to reach out.<br><br>
 
 
 ## 🌐 Socials:
